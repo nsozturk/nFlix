@@ -30,7 +30,7 @@ static let YoutubeAPI_KEY = "YOUTUBEAPI_KEY"
 ## GIF
 
 <div>
-<img src="assets/nflix.gif" alt="Home" width="234" height="506" />
+<img src="assets/nFlix.gif" alt="Home" width="234" height="506" />
 </div>
 
 ## Screenshots
